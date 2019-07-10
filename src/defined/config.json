@@ -1,0 +1,9 @@
+{
+  "projectName": "WebTrack",
+  "development": false,
+  "developmentTraget": {
+    "protocol": "https://",
+    "url": "va.uni-landau.de",
+    "port": "8443"
+  }
+}

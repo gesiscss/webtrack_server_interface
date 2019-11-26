@@ -30,9 +30,9 @@ export default class HistoryView extends Component {
   render() {
     let columns = [
         {
-          Header: 'Title',
-          accessor: 'TITLE',
-          Cell: props => <a href={props.original.URL} target="_blank">{props.value}</a>
+          Header: 'Site',
+          accessor: 'SITE',
+          Cell: props => <a href={props.original.URL} target="_blank">{props.original.URL}</a>
         },
         {
           Header: 'Duration',

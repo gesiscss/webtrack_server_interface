@@ -3,7 +3,7 @@
   "development": false,
   "developmentTraget": {
     "protocol": "https://",
-    "url": "va.uni-landau.de",
+    "url": "localhost",
     "port": "8443"
   }
 }

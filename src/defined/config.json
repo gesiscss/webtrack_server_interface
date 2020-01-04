@@ -1,9 +1,9 @@
 {
   "projectName": "WebTrack",
-  "development": true,
+  "development": false,
   "developmentTraget": {
     "protocol": "https://",
-    "url": "localhost",
+    "url": "webtracker.sowi.unibe.ch",
     "port": "8443"
   }
 }

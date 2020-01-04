@@ -1,6 +1,6 @@
 {
   "projectName": "WebTrack",
-  "development": false,
+  "development": true,
   "developmentTraget": {
     "protocol": "https://",
     "url": "localhost",
